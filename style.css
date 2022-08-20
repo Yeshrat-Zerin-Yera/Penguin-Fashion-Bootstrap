@@ -1,0 +1,28 @@
+/* Fonts */
+.roboto{
+    font-family: roboto;
+    color: #3E3E3E;
+}
+.bebas-neue{
+    font-family: bebas neue;
+}
+/* Custom-Properties */
+.btn-primary{
+    background-image: linear-gradient(rgb(144, 238, 21), #b3da1a);
+}
+nav{
+    font-weight: bold;
+}
+.bg-yellow{
+    background-color: #FFFBF0;
+}
+.blue{
+    color: #363958;
+}
+.orange{
+    color: #FABE4C;
+}
+.bg-img{
+    background: #F1F1F1;
+    border-radius: 20px;
+}
